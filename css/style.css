@@ -1,0 +1,29 @@
+
+h3{
+
+    background-color: blue;
+
+ }
+ #id_css{
+    background-color: aqua;
+    padding: 20px;
+    margin: 10px;
+    color: red;
+
+ }
+ .box_color{
+
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 10px;
+    
+ }
+ .two{
+    background-color: brown;
+    padding: 20px;
+    margin: 10px;
+
+
+ }
